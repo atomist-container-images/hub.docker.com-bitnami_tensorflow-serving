@@ -94,6 +94,3 @@ FROM bitnami/tensorflow-serving:2.8.0-debian-10-r15
 
 # Tags: 2.8.0-debian-10-r14
 FROM bitnami/tensorflow-serving:2.8.0-debian-10-r14
-
-# Tags: 2.8.0-debian-10-r13
-FROM bitnami/tensorflow-serving:2.8.0-debian-10-r13
