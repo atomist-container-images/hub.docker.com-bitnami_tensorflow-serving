@@ -1,12 +1,42 @@
-# Tags: latest, 2.8.0-debian-10-r75, 2.8.0, 2-debian-10, 2
+# Tags: latest, 2.8.0-debian-10-r85, 2.8.0, 2-debian-10, 2
 FROM bitnami/tensorflow-serving:latest
-FROM bitnami/tensorflow-serving:2.8.0-debian-10-r75
+FROM bitnami/tensorflow-serving:2.8.0-debian-10-r85
 FROM bitnami/tensorflow-serving:2.8.0
 FROM bitnami/tensorflow-serving:2-debian-10
 FROM bitnami/tensorflow-serving:2
 
 # Tags: _
 FROM bitnami/tensorflow-serving:_
+
+# Tags: 2.8.0-debian-10-r84
+FROM bitnami/tensorflow-serving:2.8.0-debian-10-r84
+
+# Tags: 2.8.0-debian-10-r83
+FROM bitnami/tensorflow-serving:2.8.0-debian-10-r83
+
+# Tags: 2.8.0-debian-10-r82
+FROM bitnami/tensorflow-serving:2.8.0-debian-10-r82
+
+# Tags: 2.8.0-debian-10-r81
+FROM bitnami/tensorflow-serving:2.8.0-debian-10-r81
+
+# Tags: 2.8.0-debian-10-r80
+FROM bitnami/tensorflow-serving:2.8.0-debian-10-r80
+
+# Tags: 2.8.0-debian-10-r79
+FROM bitnami/tensorflow-serving:2.8.0-debian-10-r79
+
+# Tags: 2.8.0-debian-10-r78
+FROM bitnami/tensorflow-serving:2.8.0-debian-10-r78
+
+# Tags: 2.8.0-debian-10-r77
+FROM bitnami/tensorflow-serving:2.8.0-debian-10-r77
+
+# Tags: 2.8.0-debian-10-r76
+FROM bitnami/tensorflow-serving:2.8.0-debian-10-r76
+
+# Tags: 2.8.0-debian-10-r75
+FROM bitnami/tensorflow-serving:2.8.0-debian-10-r75
 
 # Tags: 2.8.0-debian-10-r74
 FROM bitnami/tensorflow-serving:2.8.0-debian-10-r74
@@ -64,30 +94,3 @@ FROM bitnami/tensorflow-serving:2.8.0-debian-10-r57
 
 # Tags: 2.8.0-debian-10-r56
 FROM bitnami/tensorflow-serving:2.8.0-debian-10-r56
-
-# Tags: 2.8.0-debian-10-r55
-FROM bitnami/tensorflow-serving:2.8.0-debian-10-r55
-
-# Tags: 2.8.0-debian-10-r54
-FROM bitnami/tensorflow-serving:2.8.0-debian-10-r54
-
-# Tags: 2.8.0-debian-10-r53
-FROM bitnami/tensorflow-serving:2.8.0-debian-10-r53
-
-# Tags: 2.8.0-debian-10-r52
-FROM bitnami/tensorflow-serving:2.8.0-debian-10-r52
-
-# Tags: 2.8.0-debian-10-r51
-FROM bitnami/tensorflow-serving:2.8.0-debian-10-r51
-
-# Tags: 2.8.0-debian-10-r50
-FROM bitnami/tensorflow-serving:2.8.0-debian-10-r50
-
-# Tags: 2.8.0-debian-10-r49
-FROM bitnami/tensorflow-serving:2.8.0-debian-10-r49
-
-# Tags: 2.8.0-debian-10-r48
-FROM bitnami/tensorflow-serving:2.8.0-debian-10-r48
-
-# Tags: 2.8.0-debian-10-r47
-FROM bitnami/tensorflow-serving:2.8.0-debian-10-r47
